@@ -1,0 +1,41 @@
+ASSIGNMENT 3
+
+NAME: Manjeet Verma
+STUDENT ID: BCS2025371
+
+TASK 1: FACTORIAL OF A NUMBER
+
+Aim:
+To calculate the factorial of a given number.
+
+Theory:
+Factorial is the product of all positive integers from 1 to the given number.
+
+Result:
+The factorial was calculated and displayed successfully.
+
+--------------------------------------------------
+
+TASK 2: FIBONACCI SERIES
+
+Aim:
+To generate Fibonacci series using Java.
+
+Theory:
+In Fibonacci series, each term is obtained by adding the previous two terms.
+
+Result:
+The Fibonacci series was generated successfully.
+
+--------------------------------------------------
+
+TASK 3: PRIME NUMBER
+
+Aim:
+To check whether a number is prime or not.
+
+Theory:
+A prime number has exactly two factors: 1 and itself.
+
+Result:
+The program successfully identified the number as prime or non-prime.

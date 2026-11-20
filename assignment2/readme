@@ -1,0 +1,41 @@
+ASSIGNMENT 2
+
+NAME: Manjeet Verma
+STUDENT ID: BCS2025371
+
+TASK 1: EVEN OR ODD NUMBER
+
+Aim:
+To determine whether a number is even or odd.
+
+Theory:
+A number divisible by 2 is called an even number; otherwise it is called an odd number.
+
+Result:
+The program successfully identified whether the number was even or odd.
+
+--------------------------------------------------
+
+TASK 2: LARGEST OF THREE NUMBERS
+
+Aim:
+To find the largest number among three numbers.
+
+Theory:
+Conditional statements are used to compare three values and determine the greatest value.
+
+Result:
+The largest number among the given numbers was displayed successfully.
+
+--------------------------------------------------
+
+TASK 3: LEAP YEAR
+
+Aim:
+To check whether a given year is a leap year.
+
+Theory:
+A leap year is divisible by 4 and follows special rules for century years.
+
+Result:
+The program successfully determined whether the year was a leap year or not.

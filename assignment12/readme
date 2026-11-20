@@ -1,0 +1,41 @@
+ASSIGNMENT 12
+
+NAME: Manjeet Verma
+STUDENT ID: BCS2025371
+
+TASK 1: TRY-CATCH BLOCK
+
+Aim:
+To handle exceptions using try-catch blocks.
+
+Theory:
+Exception handling prevents abnormal termination of programs and allows smooth execution.
+
+Result:
+The exception was handled successfully using try-catch.
+
+--------------------------------------------------
+
+TASK 2: MULTIPLE CATCH
+
+Aim:
+To handle different exceptions using multiple catch blocks.
+
+Theory:
+Multiple catch blocks can be used to handle different types of exceptions separately.
+
+Result:
+Different exceptions were handled successfully.
+
+--------------------------------------------------
+
+TASK 3: FINALLY BLOCK
+
+Aim:
+To demonstrate the use of finally block.
+
+Theory:
+The finally block always executes whether an exception occurs or not.
+
+Result:
+The finally block was executed successfully.

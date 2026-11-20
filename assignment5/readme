@@ -1,0 +1,40 @@
+ASSIGNMENT 5
+
+NAME: Manjeet Verma
+STUDENT ID: BCS2025371
+TASK 1: ARRAY SUM
+
+Aim:
+To find the sum of elements of an array.
+
+Theory:
+An array stores multiple values of the same data type in contiguous memory locations.
+
+Result:
+The sum of all array elements was calculated successfully.
+
+--------------------------------------------------
+
+TASK 2: LARGEST ELEMENT IN ARRAY
+
+Aim:
+To find the largest element in an array.
+
+Theory:
+Array traversal is used to compare elements and determine the maximum value.
+
+Result:
+The largest array element was displayed successfully.
+
+--------------------------------------------------
+
+TASK 3: SMALLEST ELEMENT IN ARRAY
+
+Aim:
+To find the smallest element in an array.
+
+Theory:
+The minimum value can be found by comparing all array elements sequentially.
+
+Result:
+The smallest element was identified successfully.

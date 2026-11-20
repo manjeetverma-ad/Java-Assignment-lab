@@ -1,0 +1,41 @@
+ASSIGNMENT 13
+
+NAME: Manjeet Verma
+STUDENT ID: BCS2025371
+
+TASK 1: REVERSE STRING
+
+Aim:
+To reverse a given string.
+
+Theory:
+A string can be reversed by accessing its characters from the last index to the first index.
+
+Result:
+The string was reversed successfully.
+
+--------------------------------------------------
+
+TASK 2: PALINDROME STRING
+
+Aim:
+To check whether a string is palindrome or not.
+
+Theory:
+A palindrome string reads the same from left to right and right to left.
+
+Result:
+The palindrome string was identified successfully.
+
+--------------------------------------------------
+
+TASK 3: VOWEL COUNT
+
+Aim:
+To count the number of vowels in a string.
+
+Theory:
+The characters of a string are checked individually to determine whether they are vowels.
+
+Result:
+The vowels in the string were counted successfully.

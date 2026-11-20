@@ -1,0 +1,41 @@
+ASSIGNMENT 8
+
+NAME: Manjeet Verma
+STUDENT ID: BCS2025371
+
+TASK 1: MATRIX ADDITION
+
+Aim:
+To perform addition of two matrices.
+
+Theory:
+Matrix addition is performed by adding corresponding elements of two matrices having the same order.
+
+Result:
+The matrices were added successfully.
+
+--------------------------------------------------
+
+TASK 2: MATRIX SUBTRACTION
+
+Aim:
+To perform subtraction of two matrices.
+
+Theory:
+Matrix subtraction is performed by subtracting corresponding elements of the matrices.
+
+Result:
+The matrices were subtracted successfully.
+
+--------------------------------------------------
+
+TASK 3: MATRIX MULTIPLICATION
+
+Aim:
+To perform multiplication of two matrices.
+
+Theory:
+Matrix multiplication is performed by multiplying rows of the first matrix with columns of the second matrix.
+
+Result:
+The matrices were multiplied successfully.

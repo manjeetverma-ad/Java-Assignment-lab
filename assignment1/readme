@@ -1,0 +1,41 @@
+ASSIGNMENT 1
+
+NAME: Manjeet Verma
+STUDENT ID: BCS2025371
+
+TASK 1: HELLO WORLD PROGRAM
+
+Aim:
+To write a Java program to display "Hello World" on the screen.
+
+Theory:
+Java is an object-oriented and platform-independent programming language. The Hello World program is used to understand the basic structure of a Java application.
+
+Result:
+The message "Hello World" was displayed successfully on the screen.
+
+--------------------------------------------------
+
+TASK 2: VARIABLES DECLARATION
+
+Aim:
+To declare and use variables of different data types in Java.
+
+Theory:
+Variables are memory locations used to store data values. Java provides various primitive data types such as int, float, double and char.
+
+Result:
+Different variables were declared and their values were displayed successfully.
+
+--------------------------------------------------
+
+TASK 3: ARITHMETIC OPERATIONS
+
+Aim:
+To perform arithmetic operations using Java operators.
+
+Theory:
+Arithmetic operators such as addition, subtraction, multiplication, division and modulus are used to perform mathematical calculations.
+
+Result:
+The arithmetic operations were performed successfully and correct output was obtained.

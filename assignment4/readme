@@ -1,0 +1,41 @@
+ASSIGNMENT 4
+
+NAME: Manjeet Verma
+STUDENT ID: BCS2025371
+
+TASK 1: STAR PATTERN
+
+Aim:
+To print a star pattern using nested loops.
+
+Theory:
+Nested loops are commonly used in Java to generate various patterns.
+
+Result:
+The required star pattern was printed successfully.
+
+--------------------------------------------------
+
+TASK 2: NUMBER PATTERN
+
+Aim:
+To print a number pattern using loops.
+
+Theory:
+Pattern programs improve understanding of loops and logic building.
+
+Result:
+The number pattern was displayed successfully.
+
+--------------------------------------------------
+
+TASK 3: PYRAMID PATTERN
+
+Aim:
+To print a pyramid pattern using nested loops.
+
+Theory:
+A pyramid pattern is formed by managing spaces and symbols using nested loops.
+
+Result:
+The pyramid pattern was generated successfully.

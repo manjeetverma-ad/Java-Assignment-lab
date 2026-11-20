@@ -1,0 +1,41 @@
+ASSIGNMENT 15
+
+NAME: Manjeet Verma
+STUDENT ID: BCS2025371
+
+TASK 1: STRINGBUILDER APPEND
+
+Aim:
+To append data using StringBuilder.
+
+Theory:
+The append() method is used to add data at the end of an existing string.
+
+Result:
+Data was appended successfully.
+
+--------------------------------------------------
+
+TASK 2: STRINGBUILDER INSERT
+
+Aim:
+To insert data using StringBuilder.
+
+Theory:
+The insert() method inserts characters or strings at a specified position.
+
+Result:
+Data was inserted successfully.
+
+--------------------------------------------------
+
+TASK 3: STRINGBUILDER REPLACE
+
+Aim:
+To replace a portion of text using StringBuilder.
+
+Theory:
+The replace() method substitutes selected characters with new characters.
+
+Result:
+The replacement operation was performed successfully.

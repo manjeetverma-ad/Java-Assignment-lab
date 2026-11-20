@@ -1,0 +1,41 @@
+ASSIGNMENT 7
+
+NAME Manjeet Verma 
+STUDENT ID: BCS2025371
+
+TASK 1: BUBBLE SORT
+
+Aim:
+To sort array elements using Bubble Sort.
+
+Theory:
+Bubble Sort repeatedly compares adjacent elements and swaps them if they are in the wrong order.
+
+Result:
+The array elements were sorted successfully using Bubble Sort.
+
+--------------------------------------------------
+
+TASK 2: SELECTION SORT
+
+Aim:
+To sort array elements using Selection Sort.
+
+Theory:
+Selection Sort repeatedly selects the smallest element from the unsorted portion and places it at the correct position.
+
+Result:
+The array elements were sorted successfully using Selection Sort.
+
+--------------------------------------------------
+
+TASK 3: INSERTION SORT
+
+Aim:
+To sort array elements using Insertion Sort.
+
+Theory:
+Insertion Sort builds the sorted array one element at a time by inserting elements into their proper position.
+
+Result:
+The array elements were sorted successfully using Insertion Sort.

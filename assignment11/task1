@@ -1,0 +1,14 @@
+interface Printable {
+    void print();
+}
+
+class Demo implements Printable {
+    public void print() {
+        System.out.println("Printing...");
+    }
+
+    public static void main(String args[]) {
+        Demo d = new Demo();
+        d.print();
+    }
+}

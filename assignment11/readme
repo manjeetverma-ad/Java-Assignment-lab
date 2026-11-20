@@ -1,0 +1,41 @@
+ASSIGNMENT 11
+
+NAME: Manjeet Verma
+STUDENT ID: BCS2025371
+
+TASK 1: INTERFACE
+
+Aim:
+To implement an interface in Java.
+
+Theory:
+An interface is used to achieve abstraction and multiple inheritance in Java.
+
+Result:
+The interface was implemented successfully.
+
+--------------------------------------------------
+
+TASK 2: ABSTRACT CLASS
+
+Aim:
+To implement an abstract class in Java.
+
+Theory:
+An abstract class may contain abstract as well as non-abstract methods and cannot be instantiated directly.
+
+Result:
+The abstract class was implemented successfully.
+
+--------------------------------------------------
+
+TASK 3: RUNTIME POLYMORPHISM
+
+Aim:
+To demonstrate runtime polymorphism in Java.
+
+Theory:
+Runtime polymorphism is achieved through method overriding where the method to be executed is determined at runtime.
+
+Result:
+Runtime polymorphism was demonstrated successfully.

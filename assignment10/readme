@@ -1,0 +1,41 @@
+ASSIGNMENT 10
+
+NAME: Manjeet Verma
+STUDENT ID: BCS2025371
+
+TASK 1: SINGLE INHERITANCE
+
+Aim:
+To implement single inheritance in Java.
+
+Theory:
+Single inheritance allows one child class to inherit the properties and methods of one parent class.
+
+Result:
+Single inheritance was implemented successfully.
+
+--------------------------------------------------
+
+TASK 2: MULTILEVEL INHERITANCE
+
+Aim:
+To implement multilevel inheritance in Java.
+
+Theory:
+In multilevel inheritance, one class inherits from another derived class, forming a chain.
+
+Result:
+Multilevel inheritance was implemented successfully.
+
+--------------------------------------------------
+
+TASK 3: HIERARCHICAL INHERITANCE
+
+Aim:
+To implement hierarchical inheritance in Java.
+
+Theory:
+Hierarchical inheritance occurs when multiple child classes inherit from a single parent class.
+
+Result:
+Hierarchical inheritance was implemented successfully.

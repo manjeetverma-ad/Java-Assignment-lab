@@ -1,0 +1,9 @@
+import java.io.*;
+
+class CreateFile {
+    public static void main(String args[]) throws Exception {
+        File f = new File("test.txt");
+        f.createNewFile();
+        System.out.println("File Created");
+    }
+}

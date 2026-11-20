@@ -1,0 +1,41 @@
+ASSIGNMENT 14
+
+NAME: Manjeet Verma
+STUDENT ID: BCS2025371
+
+TASK 1: CREATE FILE
+
+Aim:
+To create a file using Java.
+
+Theory:
+Java provides the File class in the java.io package to create and manage files.
+
+Result:
+The file was created successfully.
+
+--------------------------------------------------
+
+TASK 2: WRITE FILE
+
+Aim:
+To write data into a file.
+
+Theory:
+FileWriter is used to store data into a text file.
+
+Result:
+Data was written successfully into the file.
+
+--------------------------------------------------
+
+TASK 3: READ FILE
+
+Aim:
+To read data from a file.
+
+Theory:
+FileReader is used to read character data from a file.
+
+Result:
+The file contents were read successfully.

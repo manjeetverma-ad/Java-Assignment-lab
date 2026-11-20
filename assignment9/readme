@@ -1,0 +1,41 @@
+ASSIGNMENT 9
+
+NAME: Manjeet Verma
+STUDENT ID: BCS2025371
+
+TASK 1: CLASS AND OBJECT
+
+Aim:
+To create and use a class and object in Java.
+
+Theory:
+A class is a blueprint for creating objects. An object is an instance of a class used to access class members.
+
+Result:
+The class and object were created and executed successfully.
+
+--------------------------------------------------
+
+TASK 2: CONSTRUCTOR
+
+Aim:
+To demonstrate the use of constructors in Java.
+
+Theory:
+A constructor is a special member function that is automatically executed when an object is created.
+
+Result:
+The constructor was executed successfully.
+
+--------------------------------------------------
+
+TASK 3: METHOD OVERLOADING
+
+Aim:
+To implement method overloading in Java.
+
+Theory:
+Method overloading allows multiple methods with the same name but different parameter lists.
+
+Result:
+Method overloading was implemented successfully.
